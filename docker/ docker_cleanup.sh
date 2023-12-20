@@ -96,7 +96,11 @@ func_only_containers() {
         fi
     done
     
+    echo
+    echo "#######################"
     echo "CONTAINER(S) FINISHED!"
+    echo "#######################"
+    echo
 }
 
 # IMAGES #
@@ -119,7 +123,11 @@ func_only_images() {
         fi
     done
 
+    echo
+    echo "#######################"
     echo "IMAGE(S) FINISHED!"
+    echo "#######################"
+    echo
 }
 
 # NETWORKS #
@@ -149,7 +157,11 @@ func_only_networks() {
         echo "Networks has no data."
     fi
     
+    echo
+    echo "#######################"
     echo "NETWORK(S) FINISHED!"
+    echo "#######################"
+    echo
 }
 
 # VOLUMES #
@@ -172,7 +184,11 @@ func_only_volumes() {
         fi
     done
 
+    echo
+    echo "#######################"
     echo "VOLUME(S) FINISHED!"
+    echo "#######################"
+    echo
 }
 
 ###### EXECUTION ######
