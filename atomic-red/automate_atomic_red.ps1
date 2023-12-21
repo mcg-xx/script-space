@@ -15,7 +15,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force
 # Import the module "Invoke-AtomicRedteam"
 Import-Module "C:\AtomicRedTeam\invoke-atomicredteam\Invoke-AtomicRedTeam.psd1" -Force
 
-# Path to main folder
+# Path to main folder with (sub-)techniques
 $mainFolder = "C:\AtomicRedTeam\atomics"
 
 # Get all subfolders from the main folder
