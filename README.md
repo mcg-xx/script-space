@@ -1,4 +1,4 @@
-# Script
+# scripts-library
 
 Scripts for all kinds of things.
 
