@@ -21,7 +21,7 @@ while true; do
         [Yy])
             echo
             echo "Continue..."
-            sleep 2
+            sleep 1
             echo
             break
             ;;
