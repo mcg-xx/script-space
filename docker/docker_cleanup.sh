@@ -65,7 +65,7 @@ IGNORED_VOLUMES_NAMES=()
 
 ###### STOP ALL CONTAINERS ######
 #################################
-# Check if container is running #
+# INFO: Check if containers running #
 if [ "$(docker ps -q)" ]; then
     # stop the running container
     docker stop $(docker ps -q)
