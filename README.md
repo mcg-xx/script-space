@@ -1,5 +1,6 @@
-# bash-scripts
+# Script
 
-bash scripts for all kinds of things.
+Scripts for all kinds of things.
 
+Linux:
 All scripts must be executable: "chmod +x FILE_NAME.sh"
