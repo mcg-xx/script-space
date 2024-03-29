@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/mcg-xx/scripts-space/blob/f2c309cfd64d8badb4f0fc89f77442f429490057/script_space_logo.jpg" alt="script space logo" title="script space logo"/>
+<img src="https://github.com/mcg-xx/script-space/blob/e5354ef2ef5e50b1170c6cca276e8f3347871267/script_space_logo.jpg" alt="script space logo" title="script space logo"/>
 </p>
 
 # Info
