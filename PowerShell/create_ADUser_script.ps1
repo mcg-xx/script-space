@@ -24,7 +24,6 @@ $expectedProperties = @{
 # Correlate 'Manager' field
 Get-Help New-ADUser -Parameter Manager
 
-d
 
 Get-ADUser $Data[0].Manager
 
